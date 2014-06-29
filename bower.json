@@ -1,0 +1,17 @@
+{
+  "name": "neue-blank",
+  "version": "0.0.1",
+  "authors": [
+    "Ryan Frederick <ryan@ryanfrederick.com>"
+  ],
+  "description": "A zero-width webfont",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true,
+  "license": "MIT"
+}
